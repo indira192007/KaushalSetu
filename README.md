@@ -1,6 +1,6 @@
 # KaushalSetu
 Digital skill verification platform for informal construction and home-service workers
-# KaushalSetu
+
 ### Connecting Skills. Building Trust. Creating Opportunities.
 
 ## About the Project
